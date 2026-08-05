@@ -1,0 +1,18 @@
+{
+  "news": [
+    {
+      "id": "welcome-001",
+      "type": "announcement",
+      "title": "Welcome to HEXANE",
+      "summary": "The launcher is live. Check back here for patch notes, events, and announcements.",
+      "date": "2026-08-05"
+    },
+    {
+      "id": "patch-1-4-0",
+      "type": "patch_notes",
+      "title": "1.4.0 Update",
+      "summary": "Fixed police AI pathing, resolved a crash on map load, and general stability improvements.",
+      "date": "2026-08-05"
+    }
+  ]
+}
