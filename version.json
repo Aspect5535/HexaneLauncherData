@@ -1,7 +1,7 @@
 {
-  "game_version": "1.4.0",
+  "game_version": "1.0.1",
   "launcher_version": "1.0.0",
-  "download_url": "https://github.com/aspect5535/HexaneLauncherData/releases/download/v1.4.0/HEXANE_1.4.0.zip",
-  "sha256": "9ec7c67de4b5e0d632c821ca950b20524a5aafdd2ae94419c83d0ac73b98e87b",
-  "size_bytes": 458749858
+  "download_url": "https://github.com/Aspect5535/HexaneLauncherData/releases/download/v1.0.1/HEXANE_1.0.1.zip",
+  "sha256": "1b5205f55c5729063b5aec239a441114c02fd0281d82c56aeba450935fb1725a",
+  "size_bytes": 478895988
 }
